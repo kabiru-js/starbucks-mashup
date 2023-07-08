@@ -69,7 +69,7 @@ This project was inspired by the Starbucks brand and the desire to create an int
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [your-email@example.com](mailto:iamkabyrshuaib@gmail.com).
+If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at (mailto:iamkabyrshuaib@gmail.com).
 
 ---
 
